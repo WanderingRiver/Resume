@@ -3,66 +3,97 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Jimmy Hendricks
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+title: Ava Gaiety Wroten
+description-meta: 'Software Engineer & UX Designer'
 keywords: 
-  - 'php' 
-  - 'mysql' 
-  - 'linux'
-author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
+  - 'accessibility' 
+  - 'ux design' 
+  - 'software development'
+author-meta: 'ava@wroten.me'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way.  
+
+###### [https://gaiety.me/](https://gaiety.me/) | Ava@Wroten.me | 443.985.8927
+#### 11+ years improving lives through building better web apps
 
 ## Skills
-``` programming```
-``` devops ```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-``` WordPress```
+```Technical Leadership```
+```Mentoring```
+```Cross-Team Collaboration```
+```Accessibility```
+```User Experience Design```
+```Presentations```
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript  
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick  
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian  
-**DevOps**: Ansible, Chef, Kubernetes, etc.  
+**Elixir**: Phoenix, Live Storybook  
+**JS**: Native Web Components, Ember 8+ Years, React, GraphQL  
+**Node**: Express, commander.js, yargs, plop  
+**Testing**: Jest, Mocha, Qunit, Cypress, Webdriver.io, Selenium  
+**A11y**: axe-core, Storybook, Web Standards  
+**HTML / CSS3**: PostCSS, Sass, Tailwind, SVG/Canvas/Video/Audio, Animations
 
 ## Experience
-### CEO and Founder, Pied Piper 
-start-date-end-date, City, State and remote
+### Senior Software Engineer at Allovue _(7+ Months)_
 
-- Things you did/do here 
-- More things that you do here. 
+**Elixir** and **Phoenix** building full-stack EdFinTech getting every dollar to every student and their faculty.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
+- **Lead** complex feature development ensuring others had the tools to succeed
+- Worked closely with stakeholders to ensure a successful launch of a new enterprise application
 
-### Senior Software Architect, Hooli
-2010-2016, San Francisco, CA
+### UI Engineer at Oncue _(1 Year)_
+**React** engineer with an eye for design and a responsibility for user advocacy for community moving companies.
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at? 
+- Built an **accessible**, **test driven**, and **mobile first** UI Component library in **Storybook**
+- Collaborated with Design and Product to establish a robust design system
+- Consulted internal projects on **A11y** standards
+- Lead cross-team workshops
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
+### Lead Full-Stack Software Engineer at SkillsEngine _(9 Months)_
+**Ember** and **Rails** web app features, improvements and mentoring around software vital to closing the skills gap between employers, educators and students.
 
-## Awards & Recognition 
-  * Winner TechCrunch Disrupt 2001
-  * People Magazine's sexiest man alive at 123 My Address, MyCity, TX
+- Revamped onboarding practices along with employee **mentoring**
+- Shifted company from agile to **Shape Up** product development
 
-## Projects
-**[*Personal Blog*](http://luther.io)** (2021-present)
+### Software Engineer at Allovue _(1 Year)_
+**Ember** and **Rails** building full-stack solutions to school district’s budgeting problems.
 
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+- Notably improved application **accessibility**
+- Extended **Ember Data** to efficiently send batch updates to a **Graphiti** and **Rails API**
+
+### Developer III at Q2ebanking _(3 Years, 8 Months)_
+**Ember** engineer improving products on multiple teams through **Test-Driven Development** practices.
+
+- Maintained a **mobile-first** dynamic frontend flow applications powered by **CQRS**
+- Pitched a **Native Web Component** library with proof of concept
+- Collaborated closely with **QA** on a robust **End-to-End** Testing suite
+- Co-lead the initiative to push for improved **automation testing** cross-product standards
+- Presented company-wide **presentations** around new initiatives and features
+- Organized internal developer conventions and a public **Meetup** group
+
+### Senior Web Engineer at Eyemaginations Inc. _(2 Years, 11 Months)_
+Wearing multiple hats to deliver the tools doctors need to better educate their patience through **Ember** applications.
+
+- Moved a **PHP** old-school team to a modern framework based approach
+- Launched two **Ember**, **HTML5 video and canvas** powered enterprise scale apps
+- Lead **UX** design initiatives and tech stack decisions
+
+### Other Jobs
+
+- Web Admin & Interactive Lead at Cyto Communications
+- Web Design & Development Intern at Antharia
+
+## Presentations
+
+- **Thinking in Components for Scalability** discussing **Tailwind UI** and **Storybook** at _TestJS Summit_
+- **Building the Dream UI Component Library** discussing **Storybook** and web standards at _MagnoliaJS_
+- **Achieving A11y Automation Testing** discussing **Ember**, **React**, **Svelte**, and **axe-core** at _TestJS Summit_
+- **A11y First, and Everyone Wins** discussing **Ember** at _EmberConf_, _Ember Dallas_, _Ember ATX_, _Austin Accessibility and Inclusive Design_
+- **Overcoming Impostor Syndrome** at _NW Austin Professional Developers_
+
+## Volunteering
+
+- **Code2College** developing curriculums around **HTML5**, **A11y** and assisting with interview practice
+- **Austin Give Camp** assisting non-profits with mobile readiness, **i18n** and content restructuring
 
 ## Education 
 
-### Masters in BS, Example University 
-
-- 4.0 GPA 
-- Deans List
-- Member of xyz club, etc. 
-- I didn't really go to college so I don't know what you would put here. 
+- **BS** (3.9 GPA, Deans List) in **Design & Information Systems** at _Stevenson University_
+- **AA** (4.0 GPA Stewart, Deans List) in **Interactive Technologies** at _AACC_
