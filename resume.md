@@ -95,5 +95,6 @@ Wearing multiple hats to deliver the tools doctors need to better educate their 
 
 ## Education 
 
+- **MS** _Ongoing_ in **Interactive Media and Communications** at _Quinnipiac University_
 - **BS** (3.9 GPA, Deans List) in **Design & Information Systems** at _Stevenson University_
 - **AA** (4.0 GPA Stewart, Deans List) in **Interactive Technologies** at _AACC_
