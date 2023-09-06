@@ -22,7 +22,9 @@ author-meta: 'Riversoldano@gmail.com'
 **HTML / CSS3**: Bootstrap
 
 ## Experience
-**Work Study** *student worker* *2021-Current* Office of Student Life, Assist with setup and cleanup of events on campus. Staff the student lounge and assist other departments as needed.
+**CIMA-LSAMP** *Jun 2023-Aug 2023* Computer Science reasearch at Texas State University over the summer. Reasearched Machine learning when paired with a labeled dataset of text communications.
+
+**Work Study** *student worker* *2021-2023* Office of Student Life, Assist with setup and cleanup of events on campus. Staff the student lounge and assist other departments as needed.
 
 **CKJ-South Texas** *Driver* *2019-2022* Transported construction materials from mines and plants to customers. Operated a hydraulic lift dump trailer in various weather conditions. Complied with all federal and state regulations for transporting this material.
 
